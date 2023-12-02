@@ -1,0 +1,9 @@
+Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to compYou know it’s out there. You know there’s free GPU somewhere, hanging like a fat, juicy, ripe blackberry on a branch just slightly out of reach.
+
+Beautiful lightning-fast speed waiting just for you.
+
+Wondering how on earth to get it to work? You’re in the right place!uting resources, including GPUs and TPUs. Colab is especially well suited to machi
+ne learning, data science, and education.
+There are, of course, limits. (Nitty gritty details are available on their faq page, of course.) It supports Python 2.7 and 3.6, but not R or Scala yet. There is a limit to your sessions and size, but you can definitely get around that if you’re creative and don’t mind occasionally re-uploading your files…
+
+Colab is ideal for everything from improving your Python coding skills to working with deep learning libraries, like PyTorch, Keras, TensorFlow, and OpenCV. You can create notebooks in Colab, upload notebooks, store notebooks, share notebooks, mount your Google Drive and use whatever you’ve got stored in there, import most of your favorite directories, upload your personal Jupyter Notebooks, upload notebooks directly from GitHub, upload Kaggle files, download your notebooks, and do just about everything else that you might want to be able to do.
